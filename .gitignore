@@ -1,1 +1,12 @@
 .eslintrc.js
+node_modules/
+.flowconfig
+_editorconfig
+.gitattributes
+.prettierrc.js
+.buckconfig
+.watchmanconfig
+metro.config.js
+package.json
+package-lock.json
+babel.config.js
