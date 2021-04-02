@@ -69,3 +69,5 @@ En la carpeta [img](/img) se encuentra el diseño solicitado en formato PNG y [F
 ## Recursos
 [Para apoyo de tus actividades utiliza esta lista de recursos recomendados](https://github.com/bright-coders/commons/tree/master/topics/resources-react-native)
   
+## CodeClimate puntaje
+<a href="https://codeclimate.com/github/BC-MAR-21-RN/kata-04-inmobiliaria-Seal-Trainer/maintainability"><img src="https://api.codeclimate.com/v1/badges/247602297d04edfdaea0/maintainability" /></a>
